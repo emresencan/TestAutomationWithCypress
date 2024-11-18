@@ -1,0 +1,538 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Application Header Check Test",
+    "uid" : "f586ecd4968ce331",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960289588,
+      "stop" : 1636960290653,
+      "duration" : 1065
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Primary Navigation Icons Check Test",
+    "uid" : "715dd6f26e2d625f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960290694,
+      "stop" : 1636960291674,
+      "duration" : 980
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Homepage AppName Version And Description Check Test",
+    "uid" : "5783358f5e39a75d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960291690,
+      "stop" : 1636960292486,
+      "duration" : 796
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Homepage Water Mark Icons For Subpages Check Test",
+    "uid" : "f2077bd629ecd749",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960292493,
+      "stop" : 1636960293389,
+      "duration" : 896
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check The About Page URL Using Chrome Browser Test",
+    "uid" : "26c1070b9584ed68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960301663,
+      "stop" : 1636960302626,
+      "duration" : 963
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check App Bar Primary Navigation Using Chrome Browser Test",
+    "uid" : "1f550083a568d796",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960302640,
+      "stop" : 1636960303663,
+      "duration" : 1023
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Home Button On The App Bar Using Chrome Browser Test",
+    "uid" : "164d61f4edecd80e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960303683,
+      "stop" : 1636960304606,
+      "duration" : 923
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Belt Monitoring Button On The App Bar Using Chrome Browser Test",
+    "uid" : "4204981e1bfe2ea5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960304612,
+      "stop" : 1636960306550,
+      "duration" : 1938
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Axis Management Button On The App Bar Using Chrome Browser Test",
+    "uid" : "139aa15736b4a072",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960306677,
+      "stop" : 1636960307785,
+      "duration" : 1108
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Help Button On The App Bar Using Chrome Browser Test",
+    "uid" : "4a829ee96adbf4cf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960307793,
+      "stop" : 1636960308880,
+      "duration" : 1087
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check About Button On The App Bar Using Chrome Browser Test",
+    "uid" : "9d340a06b5811189",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960308889,
+      "stop" : 1636960309769,
+      "duration" : 880
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Primary Navigation Texts Apperance Smaller Than 1024 Px Using Chrome Browser Test",
+    "uid" : "37049d58d8664df8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960309775,
+      "stop" : 1636960310606,
+      "duration" : 831
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check The Name Of Page Using Chrome Browser Test",
+    "uid" : "bcf262b77334fc61",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960310627,
+      "stop" : 1636960311410,
+      "duration" : 783
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "About Page Informative Area Using Chrome Browser Test",
+    "uid" : "d03511209501208c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960311419,
+      "stop" : 1636960312274,
+      "duration" : 855
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check HTML Button On The Third Party Software Area In The Main Region Test",
+    "uid" : "ecbf0868cfb969cd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960312283,
+      "stop" : 1636960313948,
+      "duration" : 1665
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Activate Axis Via Activate Toggle Success Course. (One Axis Already Added To The System) Test",
+    "uid" : "99a05c47b83b88dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960323389,
+      "stop" : 1636960329990,
+      "duration" : 6601
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Activate Axis Via Activate Toggle Success Course(2 Axis Already Added To The System) Test",
+    "uid" : "c0b36bbc2c0e3241",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1636960330011,
+      "stop" : 1636960339526,
+      "duration" : 9515
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Deactivate Axis Via Deactivate Toggle Success Course.(One Axis Already Added To The System) Test",
+    "uid" : "9d7ef1ba219248f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960339590,
+      "stop" : 1636960352513,
+      "duration" : 12923
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Deactivate Axis Via Deactivate Toggle Success Course.(Two Axis Already Added To The System) Test",
+    "uid" : "99f3f565a0a6003a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960352537,
+      "stop" : 1636960368108,
+      "duration" : 15571
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Activate Axis Via Activate Toggle And Check The Toggle Status While A Job Is In Work Test",
+    "uid" : "2185912eac199b9e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960368223,
+      "stop" : 1636960380430,
+      "duration" : 12207
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Deactivate Axis Via Deactivate Toggle And Check The Toggle Status While A Job Is In Work Test",
+    "uid" : "b3e0af5259f37061",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1636960380517,
+      "stop" : 1636960391557,
+      "duration" : 11040
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Deactivate Axis Via Deactivate Toggle And Press Cancel In The Confirmation Box Test",
+    "uid" : "834e208209cb698",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960391590,
+      "stop" : 1636960405243,
+      "duration" : 13653
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Update Desc Area While The Axis Activated Test",
+    "uid" : "82f6e0dca2ac2072",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960405265,
+      "stop" : 1636960419989,
+      "duration" : 14724
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649955: Add Axis Via UI Success Course While There Is No Previous Axis Exist Test",
+    "uid" : "aba7ab801bfd6784",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960437941,
+      "stop" : 1636960445762,
+      "duration" : 7821
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649956: dd Axis Via UI Success Course While There Is Previous Axis Exist Test",
+    "uid" : "7774072a36ccd356",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1636960445784,
+      "stop" : 1636960458085,
+      "duration" : 12301
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649957: Axis Via UI Success Course Upload The Same Datasource, Model & Scaler Files In TestCase T24205 Test",
+    "uid" : "d3052a1f27a159fb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1636960458137,
+      "stop" : 1636960466089,
+      "duration" : 7952
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649958: Axis Via UI Success Course While User Cancels Adding A New Axis Operation Test",
+    "uid" : "8ea2b0731f751a7a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960466113,
+      "stop" : 1636960475821,
+      "duration" : 9708
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649959: Axis Via UI Fail Course While Max Drive Limit Exceed (Add Axis more than 8 axes) Test",
+    "uid" : "d42b7f7b1a30c2ca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960476035,
+      "stop" : 1636960516612,
+      "duration" : 40577
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649950: Main navigation url check Test",
+    "uid" : "719ee1624c279415",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960535248,
+      "stop" : 1636960538545,
+      "duration" : 3297
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649951: Secondary Navigation Visibility Control Check Test",
+    "uid" : "826d0c8daff2f00b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960538591,
+      "stop" : 1636960540897,
+      "duration" : 2306
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649952: Main region contains 'No Axis Defined' Empty state when there is no axis available Test",
+    "uid" : "fb09bd458abaaa60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960540933,
+      "stop" : 1636960557218,
+      "duration" : 16285
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649953: Main region contains 'Select An Axis' Empty state when there is no axis selected Test",
+    "uid" : "247ef3d619e4bef4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960557332,
+      "stop" : 1636960560501,
+      "duration" : 3169
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C649954: Buttons On Primary Navigation Area Clickability Check Test",
+    "uid" : "eceb6dd4ca75a89d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960560582,
+      "stop" : 1636960566531,
+      "duration" : 5949
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650019: Belt Elongation Navigation Check Using Navigation Card Test",
+    "uid" : "158fb348a880c763",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960578767,
+      "stop" : 1636960583180,
+      "duration" : 4413
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650020: Check URL Of The Belt Elongation Page Using Navigation Card Of Belt Elongation Test",
+    "uid" : "ec59fb53860b1da3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960583227,
+      "stop" : 1636960586523,
+      "duration" : 3296
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650021: Check URL Of The Belt Elongation Page Using App Bar Navigation Test",
+    "uid" : "de613d1136d31562",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960586560,
+      "stop" : 1636960589730,
+      "duration" : 3170
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650022: Mobile Toggle Button Is Visible When Width Is Less Than 1024 Px Test",
+    "uid" : "2e8514324e8e17d3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960589776,
+      "stop" : 1636960592474,
+      "duration" : 2698
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650024: Application Favicon Test For Belt Elongation Page Test",
+    "uid" : "efff0c18c4006f85",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1636960592553,
+      "stop" : 1636960598868,
+      "duration" : 6315
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650025: There Is No Active Axis On The Belt Monitoring Page In This Case Check Text And Button On Belt Monitoring Page Test",
+    "uid" : "a493700e9609b9b3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960598921,
+      "stop" : 1636960601626,
+      "duration" : 2705
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650026: No Active Axis On The Belt Monitoring Page Click Configure Axis Button Test",
+    "uid" : "99d524761fdd7679",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960601666,
+      "stop" : 1636960604441,
+      "duration" : 2775
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C650027: Primary Navigation Menu Items Titles Are Hidden When Width Is Less Than 1024 Test",
+    "uid" : "c2389bb34d0e01ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636960604473,
+      "stop" : 1636960609050,
+      "duration" : 4577
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

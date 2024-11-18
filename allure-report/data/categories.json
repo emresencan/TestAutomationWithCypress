@@ -1,0 +1,94 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 'Service not available' to equal 'Axis_Name2 is successfully activated'",
+      "children" : [ {
+        "name" : "Activate Axis Via Activate Toggle Success Course(2 Axis Already Added To The System) Test",
+        "uid" : "c0b36bbc2c0e3241",
+        "parentUid" : "d5d927a7d97f161f6dbae3e9369d9986",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636960330011,
+          "stop" : 1636960339526,
+          "duration" : 9515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5d927a7d97f161f6dbae3e9369d9986"
+    }, {
+      "name" : "expected 'Service not available' to equal 'Axis_Name1 is successfully activated'",
+      "children" : [ {
+        "name" : "Deactivate Axis Via Deactivate Toggle And Check The Toggle Status While A Job Is In Work Test",
+        "uid" : "b3e0af5259f37061",
+        "parentUid" : "30aa4451391aebd939758b3e6e415e3b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636960380517,
+          "stop" : 1636960391557,
+          "duration" : 11040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "30aa4451391aebd939758b3e6e415e3b"
+    }, {
+      "name" : "Timed out retrying after 5000ms: Expected to find element: `#add_axis_btn_right`, but never found it.",
+      "children" : [ {
+        "name" : "C649956: dd Axis Via UI Success Course While There Is Previous Axis Exist Test",
+        "uid" : "7774072a36ccd356",
+        "parentUid" : "5d3b4f9d82f517997c2327f3c69ed744",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636960445784,
+          "stop" : 1636960458085,
+          "duration" : 12301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d3b4f9d82f517997c2327f3c69ed744"
+    }, {
+      "name" : "expected 'Axis_Name1' to not equal 'Axis_Name1'",
+      "children" : [ {
+        "name" : "C649957: Axis Via UI Success Course Upload The Same Datasource, Model & Scaler Files In TestCase T24205 Test",
+        "uid" : "d3052a1f27a159fb",
+        "parentUid" : "eccc8117de48c47f001b1be5753fee52",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636960458137,
+          "stop" : 1636960466089,
+          "duration" : 7952
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eccc8117de48c47f001b1be5753fee52"
+    }, {
+      "name" : "Timed out retrying after 5000ms: Expected to find content: 'favicon.svg' within the element: <link> but never did.",
+      "children" : [ {
+        "name" : "C650024: Application Favicon Test For Belt Elongation Page Test",
+        "uid" : "efff0c18c4006f85",
+        "parentUid" : "7d1864b180aff2b4d8835590698c9e6a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636960592553,
+          "stop" : 1636960598868,
+          "duration" : 6315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d1864b180aff2b4d8835590698c9e6a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
